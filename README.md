@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick Lane
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning JavaScript Frameworks
-- 💞️ I’m looking to collaborate on projects related to soccer / sports science
+- 👀 I’m interested in Decentralized Software 
+- 🌱 I’m currently learning Solidity, IPFS
+- 💞️ I’m looking to collaborate on projects related decentralized social/governance platforms. Or decentralized infrastructure. 
 - 📫 How to reach me patricklane09@gmail.com
 
 <!---
