@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Patrick Lane
+- 👋 Hi, I’m Patrick Lane, Texas A&M Univeristy '22
+-   Looking for work!
 - 👀 I’m interested in Decentralized Software 
 - 🌱 I’m currently learning Solidity, IPFS
 - 💞️ I’m looking to collaborate on projects related decentralized social/governance platforms. Or decentralized infrastructure. 
