@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Patrick Lane, Texas A&M Univeristy '22
--   Looking for work!
-- 👀 I’m interested in Decentralized Software 
-- 🌱 I’m currently learning Solidity, IPFS
-- 💞️ I’m looking to collaborate on projects related decentralized social/governance platforms. Or decentralized infrastructure. 
-- 📫 How to reach me patricklane09@gmail.com
+- 👋 Hi, I’m Patrick Lane, software Engineer @Polybase
+
 
 <!---
 prllrp/prllrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
